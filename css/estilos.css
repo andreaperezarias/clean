@@ -1,0 +1,256 @@
+*{
+
+padding:0px;
+margin:0px;
+}
+
+.navbar {
+  overflow: hidden;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+#nav1{
+
+width:500px;
+margin-right:100px;
+}
+
+#titulo
+
+{
+margin-top: 26px;
+font-family: sans-serif;
+color:#F27209;
+float: right;
+margin-top: 50px;
+margin-right: 100px;
+}
+
+#logotipo
+
+{
+font-size:60px;
+float: left;
+margin-top: 30px;
+margin-left: 70px;
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: white;
+color:3F33FF;
+}
+
+
+
+#izquierda
+
+{
+float:left;
+font-size:30px;
+margin-top: 30px;
+margin-left: 70px;
+}
+
+
+#derecha
+
+{
+float: right;
+margin-top: 30px;
+margin-left: 70px;
+}
+
+
+#section1{
+	
+
+width:device-width;
+margin-right: 50px;
+
+}
+
+.section2{
+	
+
+width:device-width;
+margin: 50px;
+
+}
+
+header
+
+{
+
+border-radius: 0.1em;
+min-height: 150px;
+max-width: 1420px;
+padding:0.25em;
+text-align:center;
+
+}
+
+
+
+
+ul{
+	font-size: 16px;
+	/*width:1000px;*/
+}
+ul, ol {
+				list-style:none;
+			}
+
+			.nav {
+				/*width:1000px;*/
+				font-size: 36px;
+			}
+			
+			.nav > li {
+				float:right;
+
+			}
+
+		
+			
+			.nav li a {
+				background-color:#20B2AA;
+				color:#fff;
+				font-size: 30px;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+				font-family: sans-serif;
+				
+				
+			}
+			
+			.nav li a:hover {
+				background-color:#B22222;
+				margin-bottom: 3px;
+			}
+			
+			
+			.nav li ul {
+				display:none;
+				
+				min-width:5px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			
+			
+			.nav li ul li ul {
+			
+				top:0px;
+			}
+			
+
+
+			.nav2 {
+				/*width:1000px;*/
+				font-size: 36px;
+			}
+			
+			.nav2 > li {
+				float:right;
+				width:280px;
+			}
+
+
+			.nav2 li a {
+				background-color:#4169E1;
+				color:#fff;
+				font-size: 20px;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+				font-family: sans-serif;
+				text-align:center;
+
+				width:250px;
+				
+				
+			}
+			
+			.nav2 li a:hover {
+				background-color:#B22222;
+				margin-bottom: 3px;
+			}
+			
+			
+			.nav2 li ul {
+				display:none;
+				position:absolute;
+				min-width:5px;
+			}
+			
+			.nav2 li:hover > ul {
+				display:block;
+			}
+
+			.nav2 li ul li ul {
+			
+				top:0px;
+			}
+			
+			
+			
+			
+
+#inicio1{
+
+margin:10px;
+
+}
+
+#Izq{
+
+	float:left;
+	width: 300px;
+	margin-top: 30px
+}
+
+#Cen{
+
+	float:left;
+		margin-left: 300px;
+	margin-top:20px;
+font-size:20px;
+}
+
+#Der{
+
+	float:right;
+	font-size:15px;
+	margin-right: 100px;
+	margin-top:15px;
+
+}
+
+
+
+#last{
+
+	border-color:white;
+	margin:20px;
+	font-size:15px;
+}
+
+footer
+
+{
+background:#20B2AA;
+border-radius: 0.1em;
+max-width: 1420px;
+height:150px;
+padding:0.25em;
+text-align:left;
+font-size:25px;
+color:white;
+margin:50px;
+
+}
+
